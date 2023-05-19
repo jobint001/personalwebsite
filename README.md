@@ -1,4 +1,4 @@
 # personalwebsite
 Personal website source code
 
-Created while learning web desining from Brototype youtube channel
+Created while learning web designing from Brototype youtube channel
